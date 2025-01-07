@@ -1,5 +1,6 @@
 import React from 'react';
 import ImageCompressor from './components/ImageCompressor';
+import FAQ from './components/FAQ';
 import styled from '@emotion/styled';
 
 const AppContainer = styled.div`
@@ -20,6 +21,7 @@ function App() {
     <AppContainer>
       <Title>图片压缩工具</Title>
       <ImageCompressor />
+      <FAQ />
     </AppContainer>
   );
 }

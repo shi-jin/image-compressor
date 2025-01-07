@@ -3,7 +3,7 @@
 一个简单易用的在线图片压缩工具，帮助用户快速压缩图片文件大小，同时保持图片质量。
 
 ## 🚀 在线使用
-[点击使用在线工具](https://image-compressor-phi-nine.vercel.app/)
+[点击使用在线工具](https://aihubsaas.com/)
 
 ## ✨ 主要功能
 - 📤 支持拖拽上传图片
