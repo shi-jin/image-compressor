@@ -1,8 +1,23 @@
-# React + Vite
+# 在线图片压缩工具
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+一个简单易用的在线图片压缩工具，帮助用户快速压缩图片文件大小，同时保持图片质量。
 
-Currently, two official plugins are available:
+## 🚀 在线使用
+[点击使用在线工具](https://image-compressor-phi-nine.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ 主要功能
+- 📤 支持拖拽上传图片
+- 👀 实时预览压缩效果
+- 🎚️ 自定义压缩质量（10%-90%）
+- 📊 显示压缩进度和预计时间
+- 📝 保存压缩历史记录
+- 🖼️ 支持 PNG、JPG 等常见图片格式
+- 📱 响应式设计，支持移动端使用
+
+## 💻 技术栈
+- React 18
+- Vite
+- Emotion Styled Components
+- Browser Image Compression
+
+## 🛠️ 本地开发
